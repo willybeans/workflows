@@ -1,0 +1,12 @@
+{
+  "name": "workflows",
+  "version": "1.0.0",
+  "description": "a project to showcase workflows",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Will Wedmedyk",
+  "license": "ISC"
+}
